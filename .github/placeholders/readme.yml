@@ -1,0 +1,12 @@
+REPO_TAGLINE: Complex analysis • holomorphic functions • contour integrals
+ASSETS_DIR: .github/readme
+CTA_TEXT: Access the full course website
+THEME: notes
+SITE_URL: https://academic-codex.github.io/SMA0111-Funcoes-De-Variaveis-Complexas
+
+BG_1: "#0B1020"
+BG_2: "#1B2A4A"
+TEXT_MAIN: "#F1F5FF"
+TEXT_MUTED: "#B6C2E2"
+ACCENT: "#7AA2FF"
+CARD_RADIUS: "18"
